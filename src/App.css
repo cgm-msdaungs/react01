@@ -40,3 +40,7 @@ html {
   max-height: 300px;
   /* Adjust based on your content */
 }
+
+#additional {
+  min-height: 90vh;
+}

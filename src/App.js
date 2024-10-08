@@ -6,7 +6,7 @@ import Education from './components/Education';
 import Experience from './components/Experience';
 import Skills from './components/Skills';
 import Additional from './components/Additional';
-import Contact from './components/Contact';
+// import Contact from './components/Contact';
 import Footer from './components/Footer';
 import BackToTopButton from './components/BackToTopButton';
 const App = () => {
@@ -43,7 +43,7 @@ const App = () => {
       <Experience />
       <Skills />
       <Additional />
-      <Contact />
+      {/* <Contact /> */}
       <Footer />
       <BackToTopButton />
     </div>

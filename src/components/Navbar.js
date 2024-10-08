@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-scroll';
-import { FaUserGraduate, FaBriefcase, FaCogs, FaPlus, FaEnvelope } from 'react-icons/fa';
+import { FaUserGraduate, FaPlus } from 'react-icons/fa';
 import { RiHomeFill } from "react-icons/ri";
 import { BsFillBriefcaseFill } from "react-icons/bs";
 import { FaBrain } from "react-icons/fa6";
